@@ -18,6 +18,11 @@ Built With
 ========
 * [Npoi](https://npoi.codeplex.com) - open source project which can help you read/write xls, doc, ppt files. It has a wide application.
 
+Authors
+========
+* **Piotr Porzuczek** - *Initial work*
+* **Lilla Porzuczek** - *Additional work*
+
 License
 ========
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

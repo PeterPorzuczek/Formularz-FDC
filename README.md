@@ -7,7 +7,7 @@ Here you can check out the web version of this app (which uses xlsx files genera
 Screenshots
 ========
 <div>
-<img src="http://i.imgur.com/J9X9V6g.png" alt="app-preview" width="500" height="477">
+<img src="http://i.imgur.com/J9X9V6g.png" alt="app-preview" width="50%" height="50%">
 </div>
 
 Deployment
